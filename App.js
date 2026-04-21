@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style ={styles.text}> 
-        Mark Rafael C. Sabulao  2ndYear  BSIT2B
+        Ivance Salicsic
       </Text>
       <StatusBar style="auto" />
     </View>
